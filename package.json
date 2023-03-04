@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.sprite2dto3d",
+  "displayName": "Sprite 2D To 3D",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Convert from Sprite Renderer to MeshFilter & MeshRenderer.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": ["tools","editor"],
+  "dependencies": {},
+  "author": { "name": "Unity" }
+}
