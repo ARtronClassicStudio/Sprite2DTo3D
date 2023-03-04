@@ -1,4 +1,5 @@
-# Sprite2DTo3D
+# Sprite2DTo3D:
+A small tool for converting and generating sprites to meshes.
 
 # Installation:
 Copy and paste in Package Manager:
